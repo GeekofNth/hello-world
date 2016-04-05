@@ -1,2 +1,5 @@
 # hello-world
-Starting a new chapter
+
+Hello, geeks!
+
+I am a geek of nothing. I switch interests every second and in brief, I have no interest. 
